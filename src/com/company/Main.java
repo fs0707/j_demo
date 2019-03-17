@@ -7,6 +7,9 @@ public class Main {
 
     }
 
+    public void method1(){
+
+    }
 
 
     public static void main(String[] args) {
